@@ -1,1 +1,2 @@
 First set of changes in QAManual
+Second set of changes in QAManual
